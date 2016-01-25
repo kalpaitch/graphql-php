@@ -1,5 +1,5 @@
 {
-  "name":              "webonyx/graphql-php",
+  "name":              "fubhy/graphql-php",
   "description":       "A PHP port of GraphQL reference implementation",
   "type":              "library",
   "license":           "BSD",
